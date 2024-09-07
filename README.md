@@ -1,4 +1,4 @@
-# Nillion-Verified
+# Nillion-Verifier-Node
 ![image](https://github.com/user-attachments/assets/c8d9dd9b-7d3b-4a11-b1f5-229554a75361)
 
 ## Introducing the Nillion Verifier
